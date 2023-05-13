@@ -4,7 +4,7 @@
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="prithvi33" /> </p>
 
 - 📫 How to reach me **pthakur.pt36@gmail.com**
-- 📫 My Portfolio **https://prithvi333.github.io**                                                                                                     
+ ![](https://prithvi333.github.io)                                                                                                     
 - ⚡ Fun fact **I am jocular person 😄**
 
 <h3 align="left">Connect with me:</h3>
