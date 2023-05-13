@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="prithvi33" /> </p>
 - 📫 How to reach me **pthakur.pt36@gmail.com**                                                                                          
-- ⚡ Fun fact **I am jocular person 😄**
+ ⚡ Fun fact **I am jocular person 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
