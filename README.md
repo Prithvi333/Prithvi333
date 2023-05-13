@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prithvi Chauhan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="prithvi33" /> </p>
+                                                                                                                            
 - 📫 How to reach me **pthakur.pt36@gmail.com**
                                                                                                                             
 - 📫 My Portfolio **https://prithvi333.github.io/**
