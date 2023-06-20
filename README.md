@@ -5,7 +5,7 @@
                                                                                                                             
 - 📫 How to reach me **pthakur.pt36@gmail.com**
                                                                                                                             
-- 📫 My Portfolio **https://prithvi333.github.io**
+  [My Portfolio](https://prithvi333.github.io)
                                                                                                                             
 - ⚡ Fun fact **I am jocular person 😄**
 
