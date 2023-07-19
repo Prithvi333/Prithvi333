@@ -7,7 +7,7 @@
 - 📫 My Portfoli **https://Prithvi333.github.io**                                                                                                                            
  
                                                                                                                             
-- ⚡ Fun fact **I am jocular person 😄**
+- ⚡ Fun fact **I a am jocular person 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
